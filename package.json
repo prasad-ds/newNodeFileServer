@@ -1,0 +1,15 @@
+{
+  "name": "newnodefileserver",
+  "version": "1.0.0",
+  "description": "file based server",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "author": "shweta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
